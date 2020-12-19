@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/jorgetolentinog/go-etl-restriccion)](https://goreportcard.com/report/github.com/jorgetolentinog/go-etl-restriccion)
+
 # ETL Restricción de cliente
 
 Este programa extra la lista de clientes de la base de datos del sistema **ludoplay** y la guarda en la base de datos del sistema **operation-manager**
